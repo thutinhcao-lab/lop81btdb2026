@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Tay Thi Đua Lớp 8/1 - Smart Emulation Handbook",
+  "description": "Hệ thống quản lý nề nếp thi đua thông minh dành cho lớp học, bảng xếp hạng gamification, chấm điểm cờ đỏ nhanh và đồng bộ Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
